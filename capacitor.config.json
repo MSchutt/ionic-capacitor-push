@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Push-Test",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
